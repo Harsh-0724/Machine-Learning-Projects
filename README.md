@@ -1,1 +1,1 @@
-These are some basic projects I used to learn Maching Learning.
+Some Machine Learning Projects I have worked on by myself
